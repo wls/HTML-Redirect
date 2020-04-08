@@ -6,6 +6,8 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
         <meta http-equiv="refresh" content="0; URL='<?= $redirect_to ?>'" />
         <link rel="canonical" href="<?= $redirect_to ?>"/>
     </head>
